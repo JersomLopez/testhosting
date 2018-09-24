@@ -117,7 +117,7 @@ body {
       margin: 0 auto 15px; }
 
 .about-title {
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin: 0 0 30px;
   color: #CD4B3D; }
 
@@ -125,6 +125,10 @@ body {
   font-size: 4rem;
   margin-left: 150px;
   color: #CD4B3D; }
+
+.carousel-inner {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);  
+}
 
 .home-title {
   font-size: 2rem;
@@ -135,7 +139,7 @@ body {
   margin: 0 0 50px;
   color: #CD4B3D;
   letter-spacing: -0.025em;
-  font-size: 1.5rem;}
+  font-size: 1.2rem;}
 
 #page-footer {
   clear: both;
@@ -147,11 +151,11 @@ body {
 
 .footer-container {
   padding: 0 10%; }
-  .footer-container .logo-footer {
+  .footer-container .lego-footer {
     font-size: 1rem;
     font-weight: 200;
     color: #FFFCFC; }
-    .footer-container .logo-footer .footer-wrapper {
+    .footer-container .lego-footer .footer-wrapper {
       display: inline-block;
       padding: 20px 0;
       flex-wrap: wrap;
@@ -213,19 +217,6 @@ body {
   margin: 0 -20px -40px;
   padding: 0; }
 
-.btn {
-  display: inline-block;
-  font-weight: normal;
-  line-height: 1.25;
-  text-align: center;
-  font-size: 1rem;
-  vertical-align: middle;
-  border: 1px solid transparent;
-  transition: all, 0.2s ease-in-out;
-  border-radius: 10px;
-  padding: 0.5rem 1rem;
-  font-size: 1rem;
-  border-radius: 10px; }
 
 
 
