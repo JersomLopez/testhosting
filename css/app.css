@@ -1,7 +1,9 @@
 .center-block, .b-video-img {
   display: block;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;}
+
+
 
 .gear-img{
   width: 85%;
@@ -72,16 +74,16 @@ body {
 
 .banner-container {
   padding: 40px 0;
-  background-color: lightblue;
+  background-color: antiquewhite;
   color: lightblue; }
 
 .splitter-container {
   padding: 50px 0 50px;
-  background-color: lightblue;
+  background-color: antiquewhite;
   text-align: center; }
 
 .about-container {
-  background-color: lightblue;
+  background-color: antiquewhite;
   padding: 70px 0;
   min-height: 540px; }
 
@@ -103,7 +105,7 @@ body {
   padding: 40px;
   text-align: center;
   color: #CD4B3D;
-  background-color: lightblue;
+  background-color: wheat;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   margin-left: 50px; }
   .b-card .b-title {
@@ -117,7 +119,7 @@ body {
 .about-title {
   font-size: 2rem;
   margin: 0 0 30px;
-  color: #212630; }
+  color: #CD4B3D; }
 
 .header-title {
   font-size: 4rem;
@@ -131,7 +133,7 @@ body {
   
 .about-text {
   margin: 0 0 50px;
-  color: #363e4e;
+  color: #CD4B3D;
   letter-spacing: -0.025em;
   font-size: 1.5rem;}
 
@@ -164,7 +166,7 @@ body {
 
 .nav-header {
   padding: 0 0 10px;
-  background-color: lightblue; }
+  background-color: antiquewhite; }
   .nav-header .container {
     padding: 10px 15px 0;
     margin-right: auto;
@@ -199,7 +201,8 @@ body {
 
 .b-video-img {
   width: 100%;
-  padding: 30px 0 40px; }
+  padding: 0px 0 0px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);}
 
 .img-item {
   display: inline-block;
