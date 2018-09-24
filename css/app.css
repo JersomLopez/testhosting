@@ -4,8 +4,9 @@
   margin-right: auto; }
 
 .gear-img{
-  width: 70%;
-  padding: 30px 0 40px;
+  width: 85%;
+  padding: 0px 0 0px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
 body {
@@ -101,7 +102,7 @@ body {
 .b-card {
   padding: 40px;
   text-align: center;
-  color: lightblue;
+  color: #CD4B3D;
   background-color: lightblue;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   margin-left: 50px; }
@@ -131,7 +132,8 @@ body {
 .about-text {
   margin: 0 0 50px;
   color: #363e4e;
-  letter-spacing: -0.025em; }
+  letter-spacing: -0.025em;
+  font-size: 1.5rem;}
 
 #page-footer {
   clear: both;
@@ -143,11 +145,11 @@ body {
 
 .footer-container {
   padding: 0 10%; }
-  .footer-container .lego-footer {
+  .footer-container .logo-footer {
     font-size: 1rem;
     font-weight: 200;
     color: #FFFCFC; }
-    .footer-container .lego-footer .footer-wrapper {
+    .footer-container .logo-footer .footer-wrapper {
       display: inline-block;
       padding: 20px 0;
       flex-wrap: wrap;
@@ -191,8 +193,9 @@ body {
           color: red; }
 
 .location-img {
-  width: 70%;
-  padding: 30px 0 40px; }
+  width: 100%;
+  padding: 0px 0 0px; 
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);}
 
 .b-video-img {
   width: 100%;
@@ -223,4 +226,4 @@ body {
 
 
 
-/*# sourceMappingURL=app.css.map */
+
